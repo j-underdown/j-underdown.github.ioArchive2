@@ -17,7 +17,7 @@ menu_settings:
 
 footer_settings:
   logo_image: 
-  logo_width: 100
+  logo_width: 130
   tagline: A beautiful, minimal portfolio Jekyll theme
 
 hero_settings:
